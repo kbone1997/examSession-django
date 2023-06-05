@@ -1,0 +1,10 @@
+1. What do you mean by Network?
+2. What do you mean by Node?
+3. What do you mean by Network Topology?
+4. What is Routers?
+5. What is the OSI model?
+6. Describe Hub, Switch and Router?
+7. What do you mean by the TCP/IP Model?
+8. Explain the different Layers of TCP/IP Model.
+9. What do you mean by HTTP?
+10. What do you mean by HTTPs?

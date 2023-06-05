@@ -1,0 +1,10 @@
+1 Set of devices connected to  other each through the physical medium is known as a new network. For example the Internet.
+2 In the computer network, the aree is known as a device.
+3 A network topology is a physical structure of the network which defines how the computers or node will be connected to each other.
+4 computer network is good and we get overall idea about computer network.
+5 OSI model stands for Open System Interconnection. It’s a reference model which describes that how different applications will communicate to each other over the computer network.
+6 Hub will send all data to all the port. It has a same connection point for all devices.
+7 TCP/IP stands for Transmission control protocol and Internet protocol. It describes how the data will get transmitted and routed from end to end communication.
+8 Application Layer, Transport Layer, Internet Layer, Network interface layer.
+9 HTTP stands for Hyper Text Transfer Protocol and the port for this is 80. This protocol is used for web comtents.
+10 Hypertext Transfer Protocol Secure (https) is a combination of the Hypertext Transfer Protocol (HTTP) with the Secure Socket Layer (SSL)/Transport Layer Security (TLS) protocol. TLS is an authentication and security protocol widely implemented in browsers and Web servers.
